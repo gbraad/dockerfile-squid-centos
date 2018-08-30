@@ -1,0 +1,2 @@
+# Simple container running `squid`
+
